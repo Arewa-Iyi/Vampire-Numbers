@@ -13,11 +13,12 @@ This method increases detectiton time by roughly 78%.
 
 
 ### Works Cited
-Module 3. Threads and Concurrency 3.1 Threads vs. Processes. (n.d.). Retrieved May 31, 2024, from https://leocontent.umgc.edu/content/dam/course-content/tus/cmsc/cmsc- 
-    412/document/Module%203%20Commentary.pdf?ou=1032351
+Module 3. Threads and Concurrency 3.1 Threads vs. Processes. (n.d.). Retrieved May 31, 2024, 
+        from https://leocontent.umgc.edu/content/dam/course-content/tus/cmsc/cmsc- 
+        412/document/Module%203%20Commentary.pdf?ou=1032351
 
 Silberschatz, A., Peter Baer Galvin, & Gagne, G. (2018). Operating system concepts (10th ed.). Wiley, Cop.
-    The Online Encyclopedia of Integer Sequences. (2024, May 31). A020342 - OEIS. Oeis.org. https://oeis.org/A020342
+The Online Encyclopedia of Integer Sequences. (2024, May 31). A020342 - OEIS. Oeis.org. https://oeis.org/A020342
 Vampire Number. (2017, October 12). GeeksforGeeks. https://www.geeksforgeeks.org/vampire-number/
 Vampire number. (2023, November 2). Wikipedia. https://en.wikipedia.org/wiki/Vampire_number
 Vampire number. (2024, February 16). Rosetta Code. https://rosettacode.org/wiki/Vampire_number
