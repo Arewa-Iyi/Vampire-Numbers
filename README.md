@@ -9,7 +9,7 @@ is a Vampire number or not. The work is divided between the two worker threads:
         odd numbers in the interval. 
 
 I devised a method called Limit With Sums to further hasten the discovery of Vampire Numbers.
-This method increases detectiton time by roughly 78%
+This method increases detectiton time by roughly 78%.
 
 
 ### Works Cited
