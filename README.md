@@ -8,8 +8,8 @@ is a Vampire number or not. The work is divided between the two worker threads:
         one worker will scan and verify all the even numbers and the other worker will scan and verify all the 
         odd numbers in the interval. 
 
-I devised a method called <b>Limit With Sums<b> to further hasten the discovery of Vampire Numbers.
-This method increases detectiton time by roughly 78%.
+I devised a method called <b>Limit With Sums<b> method to further hasten the discovery of Vampire Numbers.
+This method decreases detectiton time by roughly 78%.
 
 
 ### Works Cited
