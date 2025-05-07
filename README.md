@@ -1,5 +1,5 @@
 # Vampire-Numbers
-Finding Vampire Numbers in the interval 100000 to 999999 with threading
+Finding Vampire Numbers in the interval 100000 to 999999 with multi-threading
 
 ### Summary
 The goal of this program is to find all the Vampire numbers in the interval [100000, 999999]. To achieve this 
